@@ -139,7 +139,7 @@ const Register = () => {
               {/* <h1 className="mb-3 font-bold text-5xl">Hi ? Welcome Back Aji </h1>
               <p className="pr-3">Lorem ipsum is placeholder text commonly used in the graphic, print,
                 and publishing industries for previewing layouts and visual mockups</p> */}
-                <img className='w-max h-max' src="/public/bg.png" alt="" />
+                <img className='w-max h-max' src="/bg.png" alt="" />
             </div>
           </div>
           <div className="flex justify-center self-center z-10">
