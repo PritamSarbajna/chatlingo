@@ -27,7 +27,13 @@ In the most chat apps there are singular one to one chatting happens. So the pro
 - Add users via their email
 - User can choose which language preferred by him.
 - User can send messages in his preferred language.
-- User will also receive messages at his own preferred language. ( No matter which language the other user chats)
+- User will also receive messages at his own preferred language. ( No matter which language the other user chats) 
+
+## 💻 Website Tech stacks :
+
+- **Frontend :** react js, tailwind css, daisy ui
+- **Backend :** FastAPI
+- **Database :** MongoDb
 
 ## 🔗	Live Links :
 
@@ -46,3 +52,13 @@ In the most chat apps there are singular one to one chatting happens. So the pro
 - #### Pritam is an indian [ He is getting same messages in english ]
 ![Screenshot (281)](https://github.com/PritamSarbajna/chatlingo/assets/90236635/de796335-67bb-4bf7-ae40-5efbb5d3973a)
 
+
+:x: **Limitations:**
+
+While chatlingo offers benefits, there are certain limitations to be aware of which will be fixed:
+
+- [ ] Socket.io integration
+- [ ] Dedicated user profile
+- [ ] UI improvement
+- [ ] Voice translation
+- [ ] Image, video upload
