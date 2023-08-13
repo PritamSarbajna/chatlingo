@@ -39,9 +39,9 @@ In the most chat apps there are singular one to one chatting happens. So the pro
 - #### Login Page
 ![Screenshot (285)](https://github.com/PritamSarbajna/chatlingo/assets/90236635/770c7037-7e97-4c1c-a2dd-ad79b03398cb)
 - #### Register Page
-
-- #### John Doe is a russian
+![Screenshot (287)](https://github.com/PritamSarbajna/chatlingo/assets/90236635/30a460c0-da89-4989-ac13-f0c9c13a8c60)
+- #### John Doe is a russian [ He is getting same messages in russian ]
 ![Screenshot (284)](https://github.com/PritamSarbajna/chatlingo/assets/90236635/af7c714f-25b5-4050-b87f-d64b07699d41)
-- #### Pritam is an indian
+- #### Pritam is an indian [ He is getting same messages in english ]
 ![Screenshot (281)](https://github.com/PritamSarbajna/chatlingo/assets/90236635/de796335-67bb-4bf7-ae40-5efbb5d3973a)
 
