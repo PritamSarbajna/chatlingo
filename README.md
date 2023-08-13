@@ -1,11 +1,47 @@
-![Chat Lingo](https://github.com/PritamSarbajna/chatlingo/assets/90236635/d3c5833c-b818-484f-8f18-0679a4ded240)
+![Banner](https://github.com/PritamSarbajna/chatlingo/assets/90236635/e1a31113-8d6f-4920-b995-7e501a555ac0)
 
 
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<div align="center" >
+  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+</div>
+
+## ⚠️ Problems it based on :
+
+In the most chat apps there are singular one to one chatting happens. So the problem arises :
+- If two person speaks different language then chatting between them becomes hard.
+- If a person wants to comunicate with a different lingual person, It becomes hard without any translator between them.
+
+## ⚙️ Website features :
+- User Authentication (Login and Logout)
+- User can choose which language preferred by him.
+- User can send messages in his preferred language.
+- User will also receive messages at his own preferred language. ( No matter which language the other user chats)
+
+## 🔗	Live Links :
+
+- Live Website Link : [https://chatlingo.netlify.app](https://chatlingo.netlify.app/)
+- Live Api Link: [https://chatlingo-backend-ten.vercel.app](https://chatlingo-backend-ten.vercel.app/)
+- API repo : [Chatlingo Backend](https://github.com/PritamSarbajna/chatlingo-backend)
+
+## 🔭 Preview :
+
+- #### Login Page
+![Screenshot (285)](https://github.com/PritamSarbajna/chatlingo/assets/90236635/770c7037-7e97-4c1c-a2dd-ad79b03398cb)
+- #### Register Page
+
+- #### John Doe is a russian
+![Screenshot (284)](https://github.com/PritamSarbajna/chatlingo/assets/90236635/af7c714f-25b5-4050-b87f-d64b07699d41)
+- #### Pritam is an indian
+![Screenshot (281)](https://github.com/PritamSarbajna/chatlingo/assets/90236635/de796335-67bb-4bf7-ae40-5efbb5d3973a)
+
