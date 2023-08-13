@@ -24,6 +24,7 @@ In the most chat apps there are singular one to one chatting happens. So the pro
 
 ## ⚙️ Website features :
 - User Authentication (Login and Logout)
+- Add users via their email
 - User can choose which language preferred by him.
 - User can send messages in his preferred language.
 - User will also receive messages at his own preferred language. ( No matter which language the other user chats)
